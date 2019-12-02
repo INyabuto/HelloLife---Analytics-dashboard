@@ -1,5 +1,5 @@
 # HIGDA---hackathorn
-A dhis2 analytics dashboard to manage organisation units and data elements.
+A data analytics dashboard to manage organisation units and data elements.
 The dashboard pulls data from the dhis2 demo site,
 performs; deterministic anlytics,
           prescriptive analytics 
